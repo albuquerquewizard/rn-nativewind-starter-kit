@@ -1,8 +1,8 @@
 {
-  "name": "react-native-expo-nativewind-template",
+  "name": "movie",
   "main": "expo-router/entry",
   "version": "1.0.0",
-  "description": "A production-ready starter template for React Native apps with Expo Router and NativeWind (Tailwind CSS for React Native)",
+  "description": "movie app",
   "keywords": [
     "react-native",
     "expo",
@@ -13,7 +13,7 @@
     "starter",
     "boilerplate"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Himanshu",
   "license": "MIT",
   "repository": {
     "type": "git",
